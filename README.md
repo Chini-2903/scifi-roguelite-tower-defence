@@ -2,7 +2,7 @@
 
 [![Engine](https://img.shields.io/badge/Made%20with-Unity-black?style=flat-square&logo=unity)](https://unity.com/)
 [![Focus](https://img.shields.io/badge/Focus-Systems%20Architecture-brightgreen?style=flat-square)](#)
-[![Playable Build](https://img.shields.io/badge/Playable_Build-itch.io-FA5C5C?style=flat-square&logo=itchdotio)](YOUR_ITCH_LINK)
+[![Playable Build](https://img.shields.io/badge/Playable_Build-itch.io-FA5C5C?style=flat-square&logo=itchdotio)](https://cryptixthala.itch.io/tower-defense-game)
 
 A system-heavy, 2D strategy prototype focusing on deep modular inheritance, abstract upgrade loops, and event-driven environmental hazards. Designed to showcase scalable OOP principles in game architecture.
 
